@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Montserrat');
+
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: #0e9dc9;
+	color: #fff;
+	padding: 2.5rem 0;
+	font-size: 2em;
+	font-family: 'Inconsolata', monospace;
+	font-weight: bold;
+}
+
+.body {
+	padding: 2rem;
+	display: flex;
+	flex-direction: column;
+}
